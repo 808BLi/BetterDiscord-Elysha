@@ -24,7 +24,6 @@
         --ChatBox: var(--darkgrey5);
         --SendMessage: var(--darkgrey);
         --HoverMessage: var(--darkgrey5);
-        --JoinUS: 'Hey! Wanna have some fun.. Join US !';
         --AddNewServer: '➕ Add a new server';
         --Close: '🔴';
         --Resize: '🔵';
@@ -33,18 +32,14 @@
         --Unread: '✨';
         --Options: '🔧';
         --Channel: '💬';
-        --Voice: "🔊";
-        --Micro: "🎙️";
-        --Headset: "🎧";
         --Emoji: '🙂';
         --EmojiHover: '😜';
-        --Community: 'purpies';
         --WelcomeMessage: 'Theme base designed by Purple Wizard.';
-        --Watermark: 'Made with 💖 by Purple Wizard';
+        --Watermark: 'Made with 💖 by Eric Shen';
         --EditStatus: 'Put another status';
         --Folders: '📁';
         --FoldersOpen: '💠';
-        --ServerSize: 45px;
+        --ServerSize: 50px;
 }
 
 .theme-light, .theme-dark {
@@ -164,8 +159,8 @@ body, .preview-2nSL_2, #user-settings.layer-3QrUeG {
 }
 
 .iconBackgroundTierNone-3MPhMJ, .iconBackgroundTierOne-2LhaMB, .iconBackgroundTierThree-3qw3JX, .iconBackgroundTierTwo-3bCmdc {
-        width: 20px;
-        height: 20px;
+        width: 25px;
+        height: 25px;
         border-radius: .25em;
 }
 
